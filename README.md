@@ -1,4 +1,9 @@
 # Cardapio
-Um simples Cardapio Digital em HTML/CSS
+Um simples Cardapio Digital
 
-Link do Site: https://cardapio-eg-digital.netlify.app/
+## Tecnologias utilizadas:
+* HTML
+* CSS
+
+## Link do Site: 
+https://cardapio-eg-digital.netlify.app/
