@@ -1,5 +1,5 @@
 # Cardapio
-Um simples Cardapio Digital
+Este projeto é um exemplo simples de uma página web de um cardapio digital.
 
 ## Tecnologias utilizadas:
 * HTML
